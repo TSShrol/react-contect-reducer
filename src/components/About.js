@@ -1,0 +1,11 @@
+export default function About() {
+    return (
+        <>
+            <h2>About us</h2>
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa massa ultricies mi quis hendrerit dolor magna eget est. Feugiat in fermentum posuere urna nec. Tincidunt ornare massa eget egestas purus. Turpis egestas pretium aenean pharetra magna ac. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Pretium quam vulputate dignissim suspendisse in est ante in. Consectetur adipiscing elit ut aliquam. Interdum varius sit amet mattis vulputate enim nulla. Urna porttitor rhoncus dolor purus non enim praesent. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Ornare massa eget egestas purus. Quis auctor elit sed vulputate mi. A cras semper auctor neque vitae tempus quam pellentesque. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Et pharetra pharetra massa massa ultricies. Amet nisl suscipit adipiscing bibendum est ultricies. Odio eu feugiat pretium nibh ipsum consequat nisl vel pretium. Mattis pellentesque id nibh tortor id.
+                Bibendum est ultricies integer quis auctor elit sed vulputate. Scelerisque fermentum dui faucibus in ornare quam. Interdum velit euismod in pellentesque massa placerat. Vel quam elementum pulvinar etiam non quam lacus. Nunc consequat interdum varius sit amet mattis vulputate enim. Congue quisque egestas diam in arcu. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis. Senectus et netus et malesuada. Pellentesque id nibh tortor id. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Risus feugiat in ante metus dictum. Duis at consectetur lorem donec massa sapien. Eu turpis egestas pretium aenean pharetra. A scelerisque purus semper eget duis. Nisi lacus sed viverra tellus in hac. Aliquam ultrices sagittis orci a. Sit amet est placerat in egestas. Vel pretium lectus quam id leo in. Urna neque viverra justo nec ultrices.
+                
+            </p>
+        </>
+    );
+}
